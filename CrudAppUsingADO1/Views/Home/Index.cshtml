@@ -1,0 +1,62 @@
+﻿@model IEnumerable<CrudAppUsingADO1.Models.Patient>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+@* <h1>Index </h1> *@
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<div class="container-fluid">
+<table class="table table-dark table-hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AdmissionDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Mobile)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PatientAddress)
+            </th>
+            <th>@Html.DisplayName("Details")</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AdmissionDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mobile)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PatientAddress)
+            </td>
+            <td>
+                        @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                @* @Html.ActionLink("Edit", "Edit", new { id=item.Id }) | *@
+               
+                @* @Html.ActionLink("Delete", "Delete", new { id=item.Id }) *@
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>
