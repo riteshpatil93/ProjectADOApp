@@ -75,5 +75,16 @@ namespace CrudAppUsingADO1
             }
             return pt;
         }
+        public void deleteById(int? id)
+        {
+            using (SqlConnection con = new SqlConnection(cs))
+            {
+                SqlCommand cmd = new SqlCommand("delete  from Patient where Id = @id", con);
+                cmd.CommandType = System.Data.CommandType.Text;
+                cmd.Parameters.AddWithValue("@Id", id);
+                con.Open();
+                cmd.ExecuteNonQuery();
+            }
+        }
     }
 }

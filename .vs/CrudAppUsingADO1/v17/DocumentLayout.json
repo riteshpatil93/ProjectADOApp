@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\CrudAppUsingADO1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3EC45A-9E2D-4AF7-9B4A-535FC2B23901}|CrudAppUsingADO1\\CrudAppUsingADO1.csproj|c:\\users\\hp\\source\\repos\\crudappusingado1\\crudappusingado1\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC3EC45A-9E2D-4AF7-9B4A-535FC2B23901}|CrudAppUsingADO1\\CrudAppUsingADO1.csproj|solutionrelative:crudappusingado1\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3EC45A-9E2D-4AF7-9B4A-535FC2B23901}|CrudAppUsingADO1\\CrudAppUsingADO1.csproj|c:\\users\\hp\\source\\repos\\crudappusingado1\\crudappusingado1\\crudappusingado1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC3EC45A-9E2D-4AF7-9B4A-535FC2B23901}|CrudAppUsingADO1\\CrudAppUsingADO1.csproj|solutionrelative:crudappusingado1\\crudappusingado1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3EC45A-9E2D-4AF7-9B4A-535FC2B23901}|CrudAppUsingADO1\\CrudAppUsingADO1.csproj|c:\\users\\hp\\source\\repos\\crudappusingado1\\crudappusingado1\\patientdataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3EC45A-9E2D-4AF7-9B4A-535FC2B23901}|CrudAppUsingADO1\\CrudAppUsingADO1.csproj|solutionrelative:crudappusingado1\\patientdataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3EC45A-9E2D-4AF7-9B4A-535FC2B23901}|CrudAppUsingADO1\\CrudAppUsingADO1.csproj|c:\\users\\hp\\source\\repos\\crudappusingado1\\crudappusingado1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3EC45A-9E2D-4AF7-9B4A-535FC2B23901}|CrudAppUsingADO1\\CrudAppUsingADO1.csproj|solutionrelative:crudappusingado1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3EC45A-9E2D-4AF7-9B4A-535FC2B23901}|CrudAppUsingADO1\\CrudAppUsingADO1.csproj|c:\\users\\hp\\source\\repos\\crudappusingado1\\crudappusingado1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC3EC45A-9E2D-4AF7-9B4A-535FC2B23901}|CrudAppUsingADO1\\CrudAppUsingADO1.csproj|solutionrelative:crudappusingado1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3EC45A-9E2D-4AF7-9B4A-535FC2B23901}|CrudAppUsingADO1\\CrudAppUsingADO1.csproj|c:\\users\\hp\\source\\repos\\crudappusingado1\\crudappusingado1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC3EC45A-9E2D-4AF7-9B4A-535FC2B23901}|CrudAppUsingADO1\\CrudAppUsingADO1.csproj|solutionrelative:crudappusingado1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3EC45A-9E2D-4AF7-9B4A-535FC2B23901}|CrudAppUsingADO1\\CrudAppUsingADO1.csproj|c:\\users\\hp\\source\\repos\\crudappusingado1\\crudappusingado1\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3EC45A-9E2D-4AF7-9B4A-535FC2B23901}|CrudAppUsingADO1\\CrudAppUsingADO1.csproj|solutionrelative:crudappusingado1\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3EC45A-9E2D-4AF7-9B4A-535FC2B23901}|CrudAppUsingADO1\\CrudAppUsingADO1.csproj|c:\\users\\hp\\source\\repos\\crudappusingado1\\crudappusingado1\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3EC45A-9E2D-4AF7-9B4A-535FC2B23901}|CrudAppUsingADO1\\CrudAppUsingADO1.csproj|solutionrelative:crudappusingado1\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3EC45A-9E2D-4AF7-9B4A-535FC2B23901}|CrudAppUsingADO1\\CrudAppUsingADO1.csproj|c:\\users\\hp\\source\\repos\\crudappusingado1\\crudappusingado1\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC3EC45A-9E2D-4AF7-9B4A-535FC2B23901}|CrudAppUsingADO1\\CrudAppUsingADO1.csproj|solutionrelative:crudappusingado1\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3EC45A-9E2D-4AF7-9B4A-535FC2B23901}|CrudAppUsingADO1\\CrudAppUsingADO1.csproj|c:\\users\\hp\\source\\repos\\crudappusingado1\\crudappusingado1\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC3EC45A-9E2D-4AF7-9B4A-535FC2B23901}|CrudAppUsingADO1\\CrudAppUsingADO1.csproj|solutionrelative:crudappusingado1\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CrudAppUsingADO1\\CrudAppUsingADO1\\PatientDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "CrudAppUsingADO1\\PatientDataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\CrudAppUsingADO1\\CrudAppUsingADO1\\PatientDataAccessLayer.cs",
+              "RelativeToolTip": "CrudAppUsingADO1\\PatientDataAccessLayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T05:19:21.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CrudAppUsingADO1\\CrudAppUsingADO1\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "CrudAppUsingADO1\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\CrudAppUsingADO1\\CrudAppUsingADO1\\Models\\Patient.cs",
+              "RelativeToolTip": "CrudAppUsingADO1\\Models\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T05:13:48.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CrudAppUsingADO1\\CrudAppUsingADO1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CrudAppUsingADO1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\CrudAppUsingADO1\\CrudAppUsingADO1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CrudAppUsingADO1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T07:32:17.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CrudAppUsingADO1\\CrudAppUsingADO1\\Views\\Home\\delete.cshtml",
+              "RelativeDocumentMoniker": "CrudAppUsingADO1\\Views\\Home\\delete.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\CrudAppUsingADO1\\CrudAppUsingADO1\\Views\\Home\\delete.cshtml",
+              "RelativeToolTip": "CrudAppUsingADO1\\Views\\Home\\delete.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T10:48:08.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrudAppUsingADO1.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CrudAppUsingADO1\\CrudAppUsingADO1\\CrudAppUsingADO1.csproj",
+              "RelativeDocumentMoniker": "CrudAppUsingADO1\\CrudAppUsingADO1.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\CrudAppUsingADO1\\CrudAppUsingADO1\\CrudAppUsingADO1.csproj",
+              "RelativeToolTip": "CrudAppUsingADO1\\CrudAppUsingADO1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-16T05:18:13.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CrudAppUsingADO1\\CrudAppUsingADO1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CrudAppUsingADO1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\CrudAppUsingADO1\\CrudAppUsingADO1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CrudAppUsingADO1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T05:39:42.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CrudAppUsingADO1\\CrudAppUsingADO1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudAppUsingADO1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\CrudAppUsingADO1\\CrudAppUsingADO1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CrudAppUsingADO1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAADoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T15:34:03.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConnectionString.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CrudAppUsingADO1\\CrudAppUsingADO1\\ConnectionString.cs",
+              "RelativeDocumentMoniker": "CrudAppUsingADO1\\ConnectionString.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\CrudAppUsingADO1\\CrudAppUsingADO1\\ConnectionString.cs",
+              "RelativeToolTip": "CrudAppUsingADO1\\ConnectionString.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T05:09:06.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CrudAppUsingADO1\\CrudAppUsingADO1\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "CrudAppUsingADO1\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\CrudAppUsingADO1\\CrudAppUsingADO1\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "CrudAppUsingADO1\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T17:29:53.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CrudAppUsingADO1\\CrudAppUsingADO1\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "CrudAppUsingADO1\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\CrudAppUsingADO1\\CrudAppUsingADO1\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "CrudAppUsingADO1\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T16:18:14.971Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

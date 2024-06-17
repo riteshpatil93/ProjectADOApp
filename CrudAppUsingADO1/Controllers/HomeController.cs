@@ -49,6 +49,30 @@ namespace CrudAppUsingADO1.Controllers
             return View(pt);
         }
 
+        public IActionResult delete(int id)
+        {
+            Patient pt = pal.getPatientById(id);
+            return View(pt);
+        }
+
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult delete(Patient pt)
+        {
+            try
+            {
+                pal.deleteById(pt.Id);
+                return RedirectToAction("Index");
+            }
+            catch
+            {
+                return View();
+
+            }
+
+        }
+
         //public IActionResult Privacy()
         //{
         //    return View();

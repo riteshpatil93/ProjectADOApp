@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CrudAppUsingADO1.props" />
+</Project>
